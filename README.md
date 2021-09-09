@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+
 <html lang="en">
 <head>
   <title>Bootstrap 4 Example</title>
@@ -13,7 +13,7 @@
 
 <div class="container-fluid">
   <h1>My First Bootstrap Page</h1>
-  <a href="bruh.com" class="btn btn-info" role="button">Link Button</a>
+  <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorial.html" class="btn btn-info" role="button">Link Button</a>
 </div>
 
 </body>
