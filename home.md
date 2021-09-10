@@ -16,6 +16,11 @@
   <h1>Welcome to my Portfolio</h1>
   <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorial.html" class="btn btn-info" role="button">Link Button</a>
 </div>
-
+<div class="col-4 text-center d-flex">
+    <button class="btn btn-primary p-4 rounded-0">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    </button>
+</div>
+  
 </body>
 </html> 
