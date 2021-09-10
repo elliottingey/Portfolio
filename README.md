@@ -14,13 +14,9 @@
   <h2>This is a work in progress as I learn bootstrap and CSS</h2>
   <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorial.html" class="btn btn-info" role="button">Link Button</a>
 </div>
-<div class="col-4 text-center d-flex">
-    <button class="btn btn-primary p-4 rounded-0">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    </button>
-</div>
-  <div class="col-5 text-center d-flex">
-    <button class="btn btn-primary p-4 rounded-0">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    </button>
+ <div class="btn-group">
+  <button type="button" class="btn btn-info" class="btn btn-primary">Apple</button>
+  <button type="button" class="btn btn-primary">Samsung</button>
+  <button type="button" class="btn btn-primary">Sony</button>
+</div> 
 </div>
