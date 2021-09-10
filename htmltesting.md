@@ -6,12 +6,13 @@
 <article>
 <h1>I didn't realize that a webpage was just a text file</h1>
 <h4>By: Elliot Tingey</h4>
+  <h1>
 <p>I was starting my Portfolio by using the <strong>MarkSheet.io tutorials</strong>
 when I found something pretty surprising. I did not realize that there was such
 thing as an html file. I was even more surprised to learn that internet browsers
 opened and used those files. I knew that CSS could be used in html, but I
 had assumed that the html code itself was being run on something else and not just opened in
-html files. </p>
+  html files. </p></h1>
 
 
 <h3>What else I Learned from MarkSheet</h3>
