@@ -16,14 +16,12 @@
   
   
   <div class="container-fluid">
-    <h1>ChangeLog</h1>
     <h3>9/9/21 - Bootstrap and Portfolio Setup</h3>
     <p>Added basic portfolio functionality and began learning bootstrap to help some of the CSS headaches I was going through. I used <a href="https://www.w3schools.com/bootstrap5/">w3schools</a> again since I liked their CSS tutorials. After reading that for a while, I applied some of the knowledge to make containers and grouped buttons for the portfolio website. My portfolio now has links to my inital html project and its code, as well as links to my TODO and changelog. I also added functionality to return to the home page of the portfolio site. It is still pretty ugly, so my next goal is proabably to clean up the looks a bit.
   </div>
   
   
   <div class="container-fluid">
-    <h1>ChangeLog</h1>
     <h3>9/8/21 - CSS tutorial</h3>
     <p> I felt fairly comfortable with HTML at a base level after the previous day, so I moved onto trying to learn basic CSS. I used <a href="https://www.w3schools.com/w3css/">w3schools</a> and started reading up on how to create buttons and dropdown menus. My eventual plan being to add a drop down menu on applicable pages with every change that is specific to that project. Below is the source code to a simple button and dropdown with code changed slightly from the tutorial site. There is no github page containing this code since it is just a test file.</p>
     
