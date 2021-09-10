@@ -5,7 +5,7 @@
 <body>
 <article>
 <h1>I didn't realize that a webpage was just a text file</h1>
-<h4>By: Elliot Tingey</h4>
+<h5>By: Elliot Tingey</h5>
 
   
 <p>I was starting my Portfolio by using the <strong>MarkSheet.io tutorials</strong>
