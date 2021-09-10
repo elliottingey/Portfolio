@@ -13,19 +13,11 @@
 <body>
 
 <div class="container-fluid">
-  <h1>Welcome to my Portfolio</h1>
-  <h2>This is a work in progress as I learn bootstrap and CSS</h2>
-  <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorial.html" class="btn btn-info" role="button">Link Button</a>
-</div>
-<div class="col-4 text-center d-flex">
-    <button class="btn btn-primary p-4 rounded-0">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    </button>
-</div>
-  <div class="col-4 text-center d-flex">
-    <button class="btn btn-primary p-4 rounded-0">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    </button>
+  <h1>TODO List:</h1>
+    <h2>General:</h2>
+      <ul>Continue to update look and design of Portfolio as I learn more</ul>
+      <ul>Add functionality to show change over time for projects in portfolio</ul>
+      <ul>Learn How to create a hoverable dropdown that will show relevant changelog for which page you are on</ul>
 </div>
   
 </body>
