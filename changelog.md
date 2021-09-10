@@ -25,7 +25,7 @@
   <div class="container-fluid">
     <h1>ChangeLog</h1>
     <h3>9/8/21 - CSS tutorial</h3>
-    <p> I felt fairly comfortable with HTML at a base level after the previous day, so I moved onto trying to learn basic CSS. I used <a href="https://www.w3schools.com/w3css/defaulT.asp">w3schools</a> and started reading up on how to create buttons and dropdown menus. My eventual plan being to add a drop down menu on applicable pages with every change that is specific to that project. Below is the source code to a simple button and dropdown with code changed slightly from the tutorial site. There is no github page containing this code since it is just a test file.</p>
+    <p> I felt fairly comfortable with HTML at a base level after the previous day, so I moved onto trying to learn basic CSS. I used <a href="https://www.w3schools.com/w3css/">w3schools</a> and started reading up on how to create buttons and dropdown menus. My eventual plan being to add a drop down menu on applicable pages with every change that is specific to that project. Below is the source code to a simple button and dropdown with code changed slightly from the tutorial site. There is no github page containing this code since it is just a test file.</p>
     
       <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/CSS%20Testing.html" type="button" class="btn btn-primary">CSS Source Code</a>
   </div>
@@ -36,7 +36,7 @@
   <p>I followed an html tutorial on marksheet.io. At the end, I used what I had learned to make a basic HTML site.
   The tutorial, my site, and the source code are linked below.</p>
      <div class="btn-group">
-     <a href="https://marksheet.io/html-basics.html" type="button" class="btn btn-primary">Link to Tutorial</a>
+     <a href="https://marksheet.io/html-basics.html" type="button" class="btn btn-primary">Tutorial</a>
      <a href="https://elliottingey.github.io/Portfolio/htmltesting" type="button" class="btn btn-primary">Site</a>
      <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorial.html" type="button" class="btn btn-primary">Source Code</a>
      </div> 
