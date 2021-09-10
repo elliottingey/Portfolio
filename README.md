@@ -16,7 +16,7 @@
   <h4>First HTML Basic site attempt:</h4>
 </div>
  <div class="btn-group">
-  <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorial.html" type="button" class="btn btn-primary">Site</a>
+  <a href="https://elliottingey.github.io/Portfolio/htmltesting" type="button" class="btn btn-primary">Site</a>
   <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorial.html" type="button" class="btn btn-secondary">Source Code</a>
 </div> 
 
