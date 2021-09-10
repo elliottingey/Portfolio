@@ -18,7 +18,7 @@
   <p>I followed an html tutorial on marksheet.io. At the end, I used what I had learned to make a basic HTML site.
   The tutorial, my site, and the source code are linked below.</p>
      <div class="btn-group">
-     <a href="https://marksheet.io/html-basics.html" type="button" class="btn btn-primary"">Link to Tutorial</a>
+     <a href="https://marksheet.io/html-basics.html" type="button" class="btn btn-primary">Link to Tutorial</a>
      <a href="https://elliottingey.github.io/Portfolio/htmltesting" type="button" class="btn btn-primary">Site</a>
      <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorial.html" type="button" class="btn btn-primary">Source Code</a>
      </div> 
