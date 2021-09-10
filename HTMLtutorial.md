@@ -1,7 +1,3 @@
-layout: page
-title: "HTML tutorial"
-permalink: https://elliottingey.github.io/Portfolio/HTMLtutorial.html/
-
 <html>
 <head>
 <meta charset="utf-8">
