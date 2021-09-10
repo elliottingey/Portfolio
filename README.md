@@ -13,10 +13,11 @@
   <h1>Welcome to my Portfolio</h1>
   <h2>This is a work in progress as I learn bootstrap and CSS</h2>
   <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorial.html" class="btn btn-info" role="button">Link Button</a>
+  <h4>First HTML Basic site attempt:</h4>
 </div>
  <div class="btn-group">
-  <button type="button" class="btn btn-info" class="btn btn-primary">Apple</button>
+  <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorial.html" type="button" class="btn btn-primary">Apple</a>
   <button type="button" class="btn btn-primary">Samsung</button>
   <button type="button" class="btn btn-primary">Sony</button>
 </div> 
-</div>
+
