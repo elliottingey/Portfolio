@@ -6,8 +6,8 @@
 <body>
 <article>
 <h1>I didn't realize that a webpage was just a text file</h1>
-<h4>By: Elliot Tingey</h4>
-  <h1> Last Updated 9/7/21</h1>
+<h5>By: Elliot Tingey</h5>
+  <h6> Last Updated 9/7/21</h6>
 <p>I was starting my Portfolio by using the <strong>MarkSheet.io tutorials</strong>
 when I found something pretty surprising. I did not realize that there was such
 thing as an html file. I was even more surprised to learn that internet browsers
