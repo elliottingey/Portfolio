@@ -12,7 +12,8 @@
 <div class="container-fluid">
   <h1>Welcome to my Portfolio</h1>
   <h2>This is a work in progress as I learn bootstrap and CSS</h2>
-  <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorial.html" class="btn btn-info" role="button">Link Button</a>
+  <a href="https://elliottingey.github.io/Portfolio/TODO" class="btn btn-info" role="button">TODO List</a>
+  <a href="https://elliottingey.github.io/Portfolio/changelog" class="btn btn-info" role="button">Changelog</a>
   <h4>First HTML Basic site attempt:</h4>
 </div>
  <div class="btn-group">
