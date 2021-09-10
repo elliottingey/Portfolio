@@ -17,7 +17,7 @@
   
   <div class="container-fluid">
     <h3>9/9/21 - Bootstrap and Portfolio Setup</h3>
-    <p>Added basic portfolio functionality and began learning bootstrap to help some of the CSS headaches I was going through. I used <a href="https://www.w3schools.com/bootstrap5/">w3schools</a> again since I liked their CSS tutorials. After reading that for a while, I applied some of the knowledge to make containers and grouped buttons for the portfolio website. My portfolio now has links to my inital html project and its code, as well as links to my TODO and changelog. I also added functionality to return to the home page of the portfolio site. It is still pretty ugly, so my next goal is proabably to clean up the looks a bit.
+    <p>Added basic portfolio functionality and began learning bootstrap to help some of the CSS headaches I was going through. I used <a href="https://www.w3schools.com/bootstrap5/">w3schools</a> again since I liked their CSS tutorials. After reading that for a while, I applied some of the knowledge to make containers and grouped buttons for the portfolio website. My portfolio now has links to my inital html project and its code, as well as links to my TODO and changelog. I also added functionality to return to the home page of the portfolio site. It is still pretty ugly, so my next goal is proabably to clean up the looks a bit. I also wrote out the changelog and TODO list today. 
   </div>
   
   
@@ -33,6 +33,7 @@
   <h3>9/7/21 - HTML tutorial</h3>
   <p>I followed an html tutorial on marksheet.io. At the end, I used what I had learned to make a basic HTML site.
   The tutorial, my site, and the source code are linked below.</p>
+  <p> NOTE: I had a steep learning curve and a lot of issues with the intial github pages setup so some of the timestamps on github for file uploads and edits may not be accurate. Not Sure. </p>
      <div class="btn-group">
      <a href="https://marksheet.io/html-basics.html" type="button" class="btn btn-primary">Tutorial</a>
      <a href="https://elliottingey.github.io/Portfolio/htmltesting" type="button" class="btn btn-primary">Site</a>
