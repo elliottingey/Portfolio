@@ -17,7 +17,7 @@
   
   <div class="container-fluid">
     <h3>9/9/21 - Bootstrap and Portfolio Setup</h3>
-    <p>Added basic portfolio functionality and began learning bootstrap to help some of the CSS headaches I was going through. I used <a href="https://www.w3schools.com/bootstrap5/">w3schools</a> again since I liked their CSS tutorials. After reading that for a while, I applied some of the knowledge to make containers and grouped buttons for the portfolio website. My portfolio now has links to my inital html project and its code, as well as links to my TODO and changelog. I also added functionality to return to the home page of the portfolio site. It is still pretty ugly, so my next goal is proabably to clean up the looks a bit. I also wrote out the changelog and TODO list today. 
+    <p>Added basic portfolio functionality and began learning bootstrap to help some of the CSS headaches I was going through. I used <a href="https://www.w3schools.com/bootstrap5/">w3schools</a> again since I liked their CSS tutorials. After reading that for a while, I applied some of the knowledge to make containers and grouped buttons for the portfolio website. Some examples of bootstrap can be seen in the source code for this changelog<a href="https://raw.githubusercontent.com/elliottingey/Portfolio/main/changelog.md"> here.</a> My portfolio now has links to my inital html project and its code, as well as links to my TODO and changelog. I also added functionality to return to the home page of the portfolio site. It is still pretty ugly, so my next goal is proabably to clean up the looks a bit. I also wrote out the changelog and TODO list today. 
   </div>
   
   
