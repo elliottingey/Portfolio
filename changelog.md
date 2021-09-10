@@ -11,7 +11,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </head>
 <body>
-
+<a href="https://elliottingey.github.io/Portfolio/" type="button" class="btn btn-primary">Home</a>
 <div class="container-fluid">
   <h1>ChangeLog</h1>
   <h3>9/7/21 - HTML tutorial</h3>
