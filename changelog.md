@@ -13,19 +13,15 @@
 <body>
 
 <div class="container-fluid">
-  <h1>Welcome to my Portfolio</h1>
-  <h2>This is a work in progress as I learn bootstrap and CSS</h2>
-  <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorial.html" class="btn btn-info" role="button">Link Button</a>
-</div>
-<div class="col-4 text-center d-flex">
-    <button class="btn btn-primary p-4 rounded-0">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    </button>
-</div>
-  <div class="col-4 text-center d-flex">
-    <button class="btn btn-primary p-4 rounded-0">
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    </button>
+  <h1>ChangeLog</h1>
+  <h3>9/7/21 - HTML tutorial</h3>
+  <p>I followed an html tutorial on marksheet.io. At the end, I used what I had learned to make a basic HTML site.
+  The tutorial, my site, and the source code are linked below.</p>
+     <div class="btn-group">
+     <a href="https://marksheet.io/html-basics.html" type="button" class="btn btn-primary"">Link to Tutorial</a>
+     <a href="https://elliottingey.github.io/Portfolio/htmltesting" type="button" class="btn btn-primary">Site</a>
+     <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorial.html" type="button" class="btn btn-primary">Source Code</a>
+     </div> 
 </div>
   
 </body>
