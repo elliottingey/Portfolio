@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 </head>
 <body>
+  <a href="https://elliottingey.github.io/Portfolio/" type="button" class="btn btn-primary">Home</a>
 <article>
 <h1>I didn't realize that a webpage was just a text file</h1>
 <h5>By: Elliot Tingey</h5>
