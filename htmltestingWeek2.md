@@ -34,7 +34,7 @@ cute if you zoom out though. I personally recommend it.</p>
 
 
 <div>
-<img src="https://elliottingey.github.io/Portfolio/HTML&CSS/canine.jpg" class="rounded mx-auto d-block alt="Canine">
+<img src="https://elliottingey.github.io/Portfolio/HTML&CSS/canine.jpg" class="rounded mx-auto d-block" alt="Canine">
 </div>
 
 
