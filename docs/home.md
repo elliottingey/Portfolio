@@ -17,7 +17,7 @@
     <div class="card-body">
       <h4 class="card-title">Learning JavaScript</h4>
       <p class="card-text">As I learn JavaScript, I will be adding to this page with tutorial milestones and JavaScript code.</p>
-      <a href="https://elliottingey.github.io/Portfolio/learningJavaScript" class="btn stretched-link"></a>
+      <a href="https://elliottingey.github.io/Portfolio/learningJavaScriptWeek2" class="btn stretched-link"></a>
     </div>
   </div>
     
