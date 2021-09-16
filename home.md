@@ -11,6 +11,11 @@
 
 <header>
     
+  
+</header>        
+        
+<body>
+
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
   <!-- Brand -->
   <a class="navbar-brand" href="#">Logo</a>
@@ -37,11 +42,6 @@
     </li>
   </ul>
 </nav> 
-  
-</header>        
-        
-<body>
-
   
 
   
