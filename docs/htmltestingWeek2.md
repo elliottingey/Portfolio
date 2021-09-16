@@ -8,7 +8,6 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    <title>Hello, world!</title>
   </head>
   <body>
   
@@ -45,7 +44,7 @@ how to insert an image as well.</p>
 <h4>This is a (now properly sized) Dog Image</h4>
     
 <div>
-<img src="https://elliottingey.github.io/Portfolio/HTML&CSS/canine.jpg" class="rounded mx-auto d-block" alt="Canine">
+<img src="https://elliottingey.github.io/Portfolio/docs/images/canine.jpg" class="rounded mx-auto d-block" alt="Canine">
 </div>
 
 
