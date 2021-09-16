@@ -10,13 +10,6 @@
  
 </head>
     
-<header>
- <div class="container-fluid">
-  <h1>My First Bootstrap Page</h1>
-  <p>This is some text.</p>
-</div> 
-</header>
-  
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
   <!-- Brand -->
   <a class="navbar-brand" href="#">Logo</a>
