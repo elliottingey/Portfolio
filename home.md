@@ -26,17 +26,20 @@
   
 <div class="card-deck">
   <div class="card">
-  <div class="card-body">
-    <h4 class="card-title">Card title</h4>
-    <p class="card-text">Some example text. Some example text.</p>
-    <a href="#" class="card-link">Card link</a>
-    <a href="#" class="card-link">Another link</a>
+    <div class="card-body">
+      <h4 class="card-title">HTML Testing Site</h4>
+      <p class="card-text">This is a website that I will be iterating on every week with the new infomation I learn.</p>
+      <a href="https://elliottingey.github.io/Portfolio/htmltestingWeek2" class="card-link">Site</a>
+      <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorialWeek2.html" class="card-link">Source</a>
+    </div>
   </div>
-</div>
   
-  <div class="card bg-warning">
-    <div class="card-body text-center">
-      <p class="card-text">Some text inside the second card</p>
+  <div class="card">
+    <div class="card-body">
+      <h4 class="card-title">Card title</h4>
+      <p class="card-text">Some example text. Some example text.</p>
+      <a href="#" class="card-link">Card link</a>
+      <a href="#" class="card-link">Another link</a>
     </div>
   </div>
 </div>
