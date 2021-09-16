@@ -15,7 +15,6 @@
   </head>
   <body>
     
-    <article>
     <h1>Learning JavaScript</h1>
 
     <p> To begin with learning JavaScript, I found a tutorial at <a href="https://javascript.info/">javascript.info</a>. They gave a good overview
@@ -49,6 +48,6 @@
   </div>
 </div>
     
-    </article>
+    
   </body>
 </html>
