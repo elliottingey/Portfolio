@@ -37,7 +37,7 @@ how to insert an image as well.</p>
 <h4>This is a (now properly sized) Dog Image</h4>
     
 <div>
-<img class="img-fluid" src="https://elliottingey.github.io/Portfolio/docs/images/canine.jpg" alt="Canine">     
+<img class="img-fluid" src="https://raw.githubusercontent.com/elliottingey/Portfolio/main/docs/images/canine.jpg" alt="Canine">     
 </div>
 
 
