@@ -38,7 +38,13 @@ had assumed that the html code itself was being run on something else and not ju
 </div>
 
 
-    
+  <h3>Below, I use a bootstrap drop down menu</h3>
+
+<p>This menu is used to see old versions of this webpage. Week 3 and 4 are currently disabled. Eventually,
+  This dropdown will be moved to a side column of the site as opposed to below everything else.</p>		
+  
+  
+  
  <div class="fluid-container">
   <h2>Past Versions</h2>
   
