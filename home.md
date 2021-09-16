@@ -9,7 +9,12 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
  
 </head>
-      
+    
+<header>
+  height: 50px;
+  width: 100%;
+  border: 1px solid #4CAF50;        
+</header>
   
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
   <!-- Brand -->
