@@ -20,11 +20,11 @@
       <h4 class="card-title">HTML Testing Site</h4>
       <p class="card-text">This is a website that I will be iterating on every week with the new infomation I learn.</p>
       <a href="https://elliottingey.github.io/Portfolio/htmltestingWeek2" class="card-link">Site</a>
-      <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorialWeek2.html" class="card-link">Source</a>
-      <a href="https://elliottingey.github.io/Portfolio/htmltestingWeek2" class="btn btn-primary stretched-link"></a>
+      <a href="https://elliottingey.github.io/Portfolio/htmltestingWeek2" class="btn stretched-link"></a>
     </div>
   </div>
   
+    https://elliottingey.github.io/Portfolio/learningJavaScript
   <div class="card">
     <div class="card-body">
       <h4 class="card-title">Card title</h4>
