@@ -6,7 +6,9 @@
 
     <style>
       .greytxt{
-    color:lightgrey;
+    color:grey;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 12px;
     }
     </style>
     
