@@ -10,7 +10,7 @@
  
 </head>
     
-
+<a href="#" class="btn btn-primary stretched-link">See Profile</a>
   
 
   <body>
@@ -21,6 +21,7 @@
       <p class="card-text">This is a website that I will be iterating on every week with the new infomation I learn.</p>
       <a href="https://elliottingey.github.io/Portfolio/htmltestingWeek2" class="card-link">Site</a>
       <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorialWeek2.html" class="card-link">Source</a>
+      <a href="https://elliottingey.github.io/Portfolio/htmltestingWeek2" class="btn btn-primary stretched-link">HTML Tutorial</a>
     </div>
   </div>
   
