@@ -22,7 +22,7 @@
     about the basics of JavaScript from what I went through. The site is broken up into sections of which I read through the first two parts (1.1-2.18). This 
     should be a good future reference if I have any issues with JavaScript or TypeScript.</p>
     
-    <img class="img-fluid" src="https://elliottingey.github.io/Portfolio/docs/images/JStutorial.PNG" alt="JStutorial">     
+    <img class="img-fluid" src="https://raw.githubusercontent.com/elliottingey/Portfolio/main/docs/images/JStutorial.PNG" alt="JStutorial">     
     <h6 class="greytxt"> Here is an image of the site breakdown with the completed tutorials colored purple</h6>
     
     
