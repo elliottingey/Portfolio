@@ -47,7 +47,7 @@ how to insert an image as well.</p>
 didnt work after I tried a few things, so I gave up for now. The dog is very
 cute if you zoom out though. I personally recommend it.</p>
 
-<img src="https://elliottingey.github.io/Portfolio/docs/images/canine.jpg">
+<img src="https://raw.githubusercontent.com/elliottingey/Portfolio/main/docs/images/canine.jpg">
 
 </article>
 </body>
