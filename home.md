@@ -24,28 +24,17 @@
   <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorial.html" type="button" class="btn btn-secondary">Source Code</a>
 </div> 
   
-<div class="row">
-  <div class="col">
-  <div class="card" style="width:400px">
-  <img class="card-img-top" src="img_avatar1.png" alt="Card image">
-  <div class="card-body">
-    <h4 class="card-title">John Doe</h4>
-    <p class="card-text">Some example text.</p>
-    <a href="#" class="btn btn-primary">See Profile</a>
+<div class="card-columns">
+  <div class="card bg-primary">
+    <div class="card-body text-center">
+      <p class="card-text">Some text inside the first card</p>
+    </div>
   </div>
-</div>
+  <div class="card bg-warning">
+    <div class="card-body text-center">
+      <p class="card-text">Some text inside the second card</p>
+    </div>
   </div>
-  
-  <div class="col"></div>
-  
-  <div class="col"><div class="card" style="width:400px">
-  <img class="card-img-top" src="img_avatar1.png" alt="Card image">
-  <div class="card-body">
-    <h4 class="card-title">John Doe</h4>
-    <p class="card-text">Some example text.</p>
-    <a href="#" class="btn btn-primary">See Profile</a>
-  </div>
-</div></div>
 </div>
   
   
