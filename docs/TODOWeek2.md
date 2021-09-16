@@ -50,9 +50,9 @@
   
   <div class="dropdown">
     <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
-      Dropdown button
+      Version History
     </button>
-    <div class="Version History">
+    <div class="dropdown-menu">
       <a class="dropdown-item" href="https://elliottingey.github.io/Portfolio/learningJavaScriptWeek2">Week 2</a>
       <a class="dropdown-item disabled" href="https://elliottingey.github.io/Portfolio/learningJavaScriptWeek3">Week 3</a>
       <a class="dropdown-item disabled" href="https://elliottingey.github.io/Portfolio/learningJavaScriptWeek4">Week 4</a>
