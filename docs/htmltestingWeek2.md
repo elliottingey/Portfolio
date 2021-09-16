@@ -50,7 +50,7 @@ had assumed that the html code itself was being run on something else and not ju
   
   <div class="dropdown">
     <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
-      Dropdown button
+      Version History
     </button>
     <div class="dropdown-menu">
       <a class="dropdown-item" href="https://elliottingey.github.io/Portfolio/htmltesting">Week 1</a>
