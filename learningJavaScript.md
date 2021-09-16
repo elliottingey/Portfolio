@@ -14,7 +14,7 @@
     about the basics of JavaScript from what I went through. The site is broken up into sections of which I read through the first two parts (1.1-2.18). This 
     should be a good future reference if I have any issues with JavaScript or TypeScript.</p>
     
-    <img src="https://elliottingey.github.io/Portfolio/JavaScript/JSTutorial.PNG" class="rounded mx-auto d-block" alt="JSTutorial">    
+    <img src="https://elliottingey.github.io/Portfolio/JavaScript/JStutorial.PNG" class="rounded mx-auto d-block" alt="JSTutorial">    
     
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
