@@ -11,11 +11,10 @@
 </head>
     
 <header>
-div{
-  height: 50px;
-  width: 100%;
-  border: 1px solid #4CAF50; 
-    }
+ <div class="container-fluid">
+  <h1>My First Bootstrap Page</h1>
+  <p>This is some text.</p>
+</div> 
 </header>
   
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
