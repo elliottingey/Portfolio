@@ -9,28 +9,23 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
  
 </head>
-    
-<a href="#" class="btn btn-primary stretched-link">See Profile</a>
   
 
   <body>
 <div class="card-deck">
+      <div class="card">
+    <div class="card-body">
+      <h4 class="card-title">HTML Testing Site</h4>
+      <p class="card-text">This is a website that I will be iterating on every week with the new infomation I learn.</p>
+      <a href="https://elliottingey.github.io/Portfolio/learningJavaScript" class="btn stretched-link"></a>
+    </div>
+  </div>
+    
   <div class="card">
     <div class="card-body">
       <h4 class="card-title">HTML Testing Site</h4>
       <p class="card-text">This is a website that I will be iterating on every week with the new infomation I learn.</p>
-      <a href="https://elliottingey.github.io/Portfolio/htmltestingWeek2" class="card-link">Site</a>
       <a href="https://elliottingey.github.io/Portfolio/htmltestingWeek2" class="btn stretched-link"></a>
-    </div>
-  </div>
-  
-    https://elliottingey.github.io/Portfolio/learningJavaScript
-  <div class="card">
-    <div class="card-body">
-      <h4 class="card-title">Card title</h4>
-      <p class="card-text">Some example text. Some example text.</p>
-      <a href="#" class="card-link">Card link</a>
-      <a href="#" class="card-link">Another link</a>
     </div>
   </div>
 </div>
