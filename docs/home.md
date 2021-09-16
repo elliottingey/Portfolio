@@ -15,8 +15,8 @@
 <div class="card-deck">
       <div class="card">
     <div class="card-body">
-      <h4 class="card-title">HTML Testing Site</h4>
-      <p class="card-text">This is a website that I will be iterating on every week with the new infomation I learn.</p>
+      <h4 class="card-title">Learning JavaScript</h4>
+      <p class="card-text">As I learn JavaScript, I will be adding to this page with tutorial milestones and JavaScript code.</p>
       <a href="https://elliottingey.github.io/Portfolio/learningJavaScript" class="btn stretched-link"></a>
     </div>
   </div>
@@ -24,7 +24,7 @@
   <div class="card">
     <div class="card-body">
       <h4 class="card-title">HTML Testing Site</h4>
-      <p class="card-text">This is a website that I will be iterating on every week with the new infomation I learn.</p>
+      <p class="card-text">This is a web page that I will be iterating on every week with the new infomation I learn.</p>
       <a href="https://elliottingey.github.io/Portfolio/htmltestingWeek2" class="btn stretched-link"></a>
     </div>
   </div>
