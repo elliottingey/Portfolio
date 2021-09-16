@@ -39,10 +39,10 @@
       Dropdown button
     </button>
     <div class="dropdown-menu">
-      <a class="dropdown-item" href="https://elliottingey.github.io/Portfolio/htmltesting">Week 1</a>
-      <a class="dropdown-item" href="https://elliottingey.github.io/Portfolio/htmltestingWeek2">Week 2</a>
-      <a class="dropdown-item disabled" href="https://elliottingey.github.io/Portfolio/htmltestingWeek3">Week 3</a>
-      <a class="dropdown-item disabled" href="https://elliottingey.github.io/Portfolio/htmltestingWeek4">Week 4</a>
+      <a class="dropdown-item" href="https://elliottingey.github.io/Portfolio/TODO">Week 1</a>
+      <a class="dropdown-item" href="https://elliottingey.github.io/Portfolio/TODOWeek2">Week 2</a>
+      <a class="dropdown-item disabled" href="https://elliottingey.github.io/Portfolio/TODOWeek3">Week 3</a>
+      <a class="dropdown-item disabled" href="https://elliottingey.github.io/Portfolio/TODOWeek4">Week 4</a>
     </div>
   </div>
 </div>
