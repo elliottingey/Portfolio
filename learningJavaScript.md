@@ -4,7 +4,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap CSS -->
+    <style>
+      .greytxt{
+    color:lightgrey;
+    }
+    </style>
     
   </head>
   <body>
@@ -14,7 +18,9 @@
     about the basics of JavaScript from what I went through. The site is broken up into sections of which I read through the first two parts (1.1-2.18). This 
     should be a good future reference if I have any issues with JavaScript or TypeScript.</p>
     
+    
     <img src="https://elliottingey.github.io/Portfolio/JavaScript/JStutorial.PNG" class="rounded mx-auto d-block" alt="JSTutorial">    
+    <h6 class="greytxt"> Here is an image of the site breakdown with the completed tutorials colored purple</h6>
     
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
