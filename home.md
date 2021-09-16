@@ -9,13 +9,33 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </head>
 <body>
-<div class="container-fluid">
-  <h1>Welcome to my Portfolio</h1>
-  <h2>This is a work in progress as I learn bootstrap and CSS</h2>
-  <a href="https://elliottingey.github.io/Portfolio/TODO" class="btn btn-info" role="button">TODO List</a>
-  <a href="https://elliottingey.github.io/Portfolio/changelog" class="btn btn-info" role="button">Changelog</a>
-  <h4>First HTML Basic site attempt:</h4>
-</div>
+   <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
+  <!-- Brand -->
+  <a class="navbar-brand" href="#">Logo</a>
+
+  <!-- Links -->
+  <ul class="navbar-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="#">Link 1</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#">Link 2</a>
+    </li>
+
+    <!-- Dropdown -->
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+        Dropdown link
+      </a>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="#">Link 1</a>
+        <a class="dropdown-item" href="#">Link 2</a>
+        <a class="dropdown-item" href="#">Link 3</a>
+      </div>
+    </li>
+  </ul>
+</nav> 
+  
   
 
   
