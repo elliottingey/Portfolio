@@ -14,7 +14,7 @@
   
 </header>        
         
-<body>
+
 
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top">
   <!-- Brand -->
@@ -44,11 +44,8 @@
 </nav> 
   
 
-  
- <div class="btn-group">
-  <a href="https://elliottingey.github.io/Portfolio/htmltesting" type="button" class="btn btn-primary">Site</a>
-  <a href="https://github.com/elliottingey/Portfolio/blob/main/HTML%26CSS/HTMLtutorial.html" type="button" class="btn btn-secondary">Source Code</a>
-</div> 
+  <body>
+
   
 <div class="card-deck">
   <div class="card">
