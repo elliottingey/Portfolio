@@ -25,13 +25,10 @@ had assumed that the html code itself was being run on something else and not ju
   html files.</p>
 
 
-<h3>What else I Learned from MarkSheet</h3>
+<h3>Bootstrap is super helpful</h3>
 
-<p>In this file, I have used a couple of html elements I learned from <a>MarkSheet.io</a>. These include
-<ul><strong>- </strong>unordered lists</ul><ul><strong>- </strong>articles</ul><ul><strong>- </strong>paragraphs</ul><ul><strong>- </strong>headers</ul><ul><strong>- </strong>url address tags</ul><ul><strong>- </strong>"strong" words</ul>
-I have also learned that I should mark my document with the proper header so that
-the browser uses the standard html 5. I learned some standard html formatting and
-how to insert an image as well.</p>		
+<p>Bootstrap drastically improves formatting and visuals. It has been very useful to me. It is now in most of my .md files. An example of 
+ its use can be seen blelow. The dog image now fits the page properly and automatically resizes when the browser size changes.</p>		
 
 
 <h4>This is a (now properly sized) Dog Image</h4>
