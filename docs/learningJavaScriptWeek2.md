@@ -26,6 +26,14 @@
     <h6 class="greytxt"> Here is an image of the site breakdown with the completed tutorials colored purple</h6>
     
     
+      <h3>React and TypeScript</h3>
+      
+      <p> After the professor showed off React in class, I tried to install it and get it running. Being able to make changes and have them update in real time
+        seems super cool and useful. Unfortionaly, I could not get it to work properly. I'm not sure why, but I was running into a bunch of issues. I will be trying
+        to debug my problems and get it running as soon as I can.</p3>
+      
+      
+      
     <div class="fluid-container">
   <h2>Past Versions</h2>
   
