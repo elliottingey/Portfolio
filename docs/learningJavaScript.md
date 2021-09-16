@@ -29,7 +29,7 @@
     should be a good future reference if I have any issues with JavaScript or TypeScript.</p>
     
     
-    <img src="https://elliottingey.github.io/Portfolio/JavaScript/JStutorial.PNG" class="rounded mx-auto d-block" alt="JSTutorial">    
+    <img src="https://elliottingey.github.io/Portfolio/docs/images/JStutorial.PNG" class="rounded mx-auto d-block" alt="JSTutorial">    
     <h6 class="greytxt"> Here is an image of the site breakdown with the completed tutorials colored purple</h6>
     
     
