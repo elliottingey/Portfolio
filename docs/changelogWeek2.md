@@ -39,6 +39,4 @@
     <h3>9/2/21 - github pages setup</h3>
   <p>I made a github pages and fought with the setup. Over the next few days, I got it working correctly and configured in the ways I could figure out. I added a theme provided  by github. </p>
 </div>
-  
-    </body>
-  </html>
+
