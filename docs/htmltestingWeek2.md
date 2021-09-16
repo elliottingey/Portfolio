@@ -43,49 +43,25 @@ how to insert an image as well.</p>
 
 
 <h4>This is a (now properly sized) Dog Image</h4>
-<p> Note: I tried figuring out how to resize the image to the page. I am confused and it
-didnt work after I tried a few things, so I gave up for now. The dog is very
-cute if you zoom out though. I personally recommend it.</p>
-
-
+    
 <div>
 <img src="https://elliottingey.github.io/Portfolio/HTML&CSS/canine.jpg" class="rounded mx-auto d-block" alt="Canine">
 </div>
 
 
-  <ul class="nav nav-pills">
-  <li class="nav-item">
-    <a class="nav-link active" href="#">Active</a>
-  </li>
-  <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Dropdown</a>
-    <div class="dropdown-menu">
-      <a class="dropdown-item" href="#">Link 1</a>
-      <a class="dropdown-item" href="#">Link 2</a>
-      <a class="dropdown-item" href="#">Link 3</a>
-    </div>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link" href="#">Link</a>
-  </li>
-  <li class="nav-item">
-    <a class="nav-link disabled" href="#">Disabled</a>
-  </li>
-</ul> 
-
     
- <div class="container">
-  <h2>Dropdowns</h2>
-  <p>The .active class adds a blue background color to the active link.</p>
-  <p>The .disabled class disables a dropdown item (grey text color and a no-parking-sign on hover).</p>
+ <div class="fluid-container">
+  <h2>Past Versions</h2>
+  
   <div class="dropdown">
     <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
       Dropdown button
     </button>
     <div class="dropdown-menu">
-      <a class="dropdown-item" href="#">Normal</a>
-      <a class="dropdown-item active" href="#">Active</a>
-      <a class="dropdown-item disabled" href="#">Disabled</a>
+      <a class="dropdown-item" href="https://elliottingey.github.io/Portfolio/htmltesting">Week 1</a>
+      <a class="dropdown-item" href="https://elliottingey.github.io/Portfolio/htmltestingWeek2">Week 2</a>
+      <a class="dropdown-item disabled" href="https://elliottingey.github.io/Portfolio/htmltestingWeek3">Week 3</a>
+      <a class="dropdown-item disabled" href="https://elliottingey.github.io/Portfolio/htmltestingWeek4">Week 4</a>
     </div>
   </div>
 </div>
