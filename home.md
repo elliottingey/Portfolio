@@ -11,9 +11,11 @@
 </head>
     
 <header>
+div{
   height: 50px;
   width: 100%;
-  border: 1px solid #4CAF50;        
+  border: 1px solid #4CAF50; 
+    }
 </header>
   
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
