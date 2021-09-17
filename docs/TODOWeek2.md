@@ -6,7 +6,7 @@
 <div class="container-fluid">
     <h1>TODO - Week 2</h1>
   
-    <h3>Portfolio Site:<h3>
+    <h3>Portfolio Site:</h3>
     <ul class="a">
         <li>Improve consistancy on portfolio site. i.e. dropdown menus not saying the same thing.</li>
         <li>Make version dropdown part of default page layout. To do this, I need to figure out how to hide an element
@@ -31,7 +31,7 @@
 </div>
   
 <div class="container-fluid">
-    <h3>React:<h3>
+    <h3>React:</h3>
         <ul class="a">
             <li>Fix issues with React and get it installed properly</li>
             <li>Make a site using React</li>
@@ -41,7 +41,7 @@
         
         
  <div class="container-fluid">
-    <h3>Git:<h3>
+    <h3>Git:</h3>
         <ul class="a">
             <li>I got a comment last week that said I should be using command line git instead of githubs commits. I have been working using github desktop. 
             Next week ill figure out how to transistion over to using command line git and VS Code fully.</li>
