@@ -19,7 +19,7 @@
         <li>Figured out how to make and edit my theme</li>
         <li>Changed my <a href="https://github.com/elliottingey/Portfolio/blob/main/docs/_layouts/default.html">default page layout</a></li>
         <li>Added bootstrap functionality in this <a href="https://github.com/elliottingey/Portfolio/blob/main/docs/_includes/head-custom.html">head-custom.html</a>.
-            This lets me not have to copy the same things into every <head></head> in every web page</li>
+            This lets me not have to copy the same things into every head in every web page</li>
         <li>Rearranged and Organized my portfolio files</li>
         <li>Made a navigation bar fixed to top of every page. This is in
             <a href="https://github.com/elliottingey/Portfolio/blob/main/docs/_layouts/default.html">default.html</a>.</li>
