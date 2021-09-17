@@ -13,8 +13,9 @@
     <h3>9/16/21 - Variety of Updates</h3>
     <ul class="a">
         <li>Made a ton of CSS and Bootstrap updates to improve functionality.
-        Learned a lot of it from https://www.w3schools.com. <a href="https://www.w3schools.com/bootstrap4/">This</a> was helpful for Bootstrap,
-        and <a href="https://www.w3schools.com/css/">this</a> was helpful for CSS.</li>
+          Learned a lot of it from <a href="https://www.w3schools.com">https://www.w3schools.com</a>. 
+          <a href="https://www.w3schools.com/bootstrap4/">This</a> was helpful for Bootstrap,
+          and <a href="https://www.w3schools.com/css/">this</a> was helpful for CSS.</li>
         <li>Figured out how to make and edit my theme</li>
         <li>Changed my <a href="https://github.com/elliottingey/Portfolio/blob/main/docs/_layouts/default.html">default page layout</a></li>
         <li>Added bootstrap functionality in this <a href="https://github.com/elliottingey/Portfolio/blob/main/docs/_includes/head-custom.html">head-custom.html</a>.
