@@ -22,7 +22,7 @@
       
         
 <div class="container-fluid">
-    <h3>JavaScript and TypeScript:<h3>
+    <h3>JavaScript and TypeScript:</h3>
         <ul class="a">
             <li>Continue with JavaScript Tutorials on <a href="JavaScript.info">JavaScript.info</a></li>
             <li>Follow <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html">this</a> tutorial on TypeScript</li>
