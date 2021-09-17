@@ -35,6 +35,8 @@
             explanation text about it. I also added a couple paragraphs about bootstrap.</li>
         <li>Started using bootstrap on just about every page on the website. Can be seen in the 
             <a href="https://github.com/elliottingey/Portfolio/tree/main/docs">.md files</a>.</li>
+      <li>Updated home page links to Week 2 files</li>
+      <li>Updated page links so everything directs to the correct places</li>
         
     </ul>
   </div>
