@@ -8,10 +8,23 @@
 
   <h1>ChangeLog:</h1>
   
+
+  <div class="container-fluid">
+    <h3>9/21/21 git and React</h3>
+    <ul class="a">
+        <li>Did a bunch of googling and got git to work properly on my system.</li>
+	<li>Made a react instance appear on google pages</li>
+    </ul>
+  </div>
+  
+
+
+
   <div class="container-fluid">
     <h3>9/19/21 - Fixed Weird Errors</h3>
     <ul class="a">
         <li>Got VSCode running correctly and react is now properly installed. Will be working with typescript and react over the next few days</li>
+	<li>git, bash, and node are now being recognized in my command terminal.</li>
     </ul>
   </div>
   
