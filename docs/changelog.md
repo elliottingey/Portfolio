@@ -8,6 +8,20 @@
 
   <h1>ChangeLog:</h1>
   
+  <div class="container-fluid">
+    <h3>9/19/21 - Fixed Weird Errors</h3>
+    <ul class="a">
+        <li>Got VSCode running correctly and react is now properly installed. Will be working with typescript and react over the next few days</li>
+    </ul>
+  </div>
+  
+  
+  <div class="container-fluid">
+    <h3>9/18/21 - Weird Errors</h3>
+    <ul class="a">
+        <li>Trying to get my VSCode running correctly. Having issues where its not recognizing git, bash or node. Maybe a PATH issue</li>
+    </ul>
+  </div>
   
   <div class="container-fluid">
     <h3>9/16/21 - Variety of Updates</h3>
