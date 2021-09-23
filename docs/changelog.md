@@ -14,7 +14,7 @@
     <ul class="a">
         <li>Spent about 4 hours trying to get React running and properly using github pages. I was getting a ton of weird errors and ran into problems with git. I had to manually delete the github_pages folder in .cache for some reason. I ended up with a working page but I didnt finish the project I was planning on doing with the react page.</li>
         <li>Now have git correctly set up to push updates to my repository. I also have a remote branch for my react project to have updates sent through. Now that I know the process and the solutions to the errors I was running into, it should be easier to make react sites for the projects I want to finish next week. </li
-        <li></li>
+        <li>React site is hosted in a seperate repository. Not sure if it has to be or not.</li>
     </ul>
   </div>
 
