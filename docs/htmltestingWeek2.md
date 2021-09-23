@@ -55,7 +55,7 @@ had assumed that the html code itself was being run on something else and not ju
     <div class="dropdown-menu">
       <a class="dropdown-item" href="https://elliottingey.github.io/Portfolio/htmltesting">Week 1</a>
       <a class="dropdown-item" href="https://elliottingey.github.io/Portfolio/htmltestingWeek2">Week 2</a>
-      <a class="dropdown-item disabled" href="https://elliottingey.github.io/Portfolio/htmltestingWeek3">Week 3</a>
+      <a class="dropdown-item" href="https://elliottingey.github.io/Portfolio/htmltestingWeek2">Week 3</a>
       <a class="dropdown-item disabled" href="https://elliottingey.github.io/Portfolio/htmltestingWeek4">Week 4</a>
     </div>
   </div>

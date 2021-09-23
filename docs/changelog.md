@@ -10,10 +10,30 @@
   
 
   <div class="container-fluid">
-    <h3>9/21/21 git and React</h3>
+    <h3>9/23/21 - painful errors</h3>
     <ul class="a">
-        <li>Did a bunch of googling and got git to work properly on my system.</li>
-	<li>Made a react instance appear on google pages</li>
+        <li>Spent about 4 hours trying to get React running and properly using github pages. I was getting a ton of weird errors and ran into problems with git. I had to manually delete the github_pages folder in .cache for some reason. I ended up with a working page but I didnt finish the project I was planning on doing with the react page.</li>
+        <li>Now have git correctly set up to push updates to my repository. I also have a remote branch for my react project to have updates sent through. Now that I know the process and the solutions to the errors I was running into, it should be easier to make react sites for the projects I want to finish next week. </li
+        <li></li>
+    </ul>
+  </div>
+
+
+
+   <div class="container-fluid">
+    <h3>9/22/21 - React</h3>
+    <ul class="a">
+        <li>after 3 installations, I got an instance of React working on my PC. I played around with react for a while by editing the default page. I broke something eventually when trying to get it working on github pages. Getting lots of errors that im not sure how to fix.</li>
+        <li>I went through a <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-oop.html"></a>TypeScript tutorial</a> I mentioned on my last TODO list. I went through the Page for JavaScript programers and for OOP programers. </li>
+    </ul>
+  </div>
+
+  <div class="container-fluid">
+    <h3>9/21/21 - git errors</h3>
+    <ul class="a">
+        <li>Did a bunch of googling and finally got git to work properly on my system. </li>
+        <li>Made an ssh key so i could use it between git bash and github</li>
+        <li>Small improvements on portfolio site. Portfolio need more dedicated attention though.</li>
     </ul>
   </div>
   
