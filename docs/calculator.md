@@ -1,6 +1,6 @@
 <head>
     <title>Example Web Page</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="react\calculator\style.css">
 </head>
 
 
