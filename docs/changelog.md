@@ -18,7 +18,7 @@
 
 
 
-   <div class="container-fluid">
+  <div class="container-fluid">
     <h3>9/22/21 - React</h3>
     <ul class="a">
         <li>after 3 installations, I got an instance of React working on my PC. I played around with react for a while by editing the default page. I broke something eventually when trying to get it working on github pages. Getting lots of errors that im not sure how to fix.</li>
