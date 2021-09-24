@@ -5,11 +5,8 @@
 </head>
   
 <body>
-
-  <h1>ChangeLog:</h1>
-  
-
   <div class="container-fluid">
+  <h1>ChangeLog:</h1>
     <h3>9/23/21 - painful errors</h3>
     <ul class="a">
         <li>Spent about 4 hours trying to get React running and properly using github pages. I was getting a ton of weird errors and ran into problems with git. I had to manually delete the github_pages folder in .cache for some reason. I ended up with a working page but I didnt finish the project I was planning on doing with the react page.</li>
