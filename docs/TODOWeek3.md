@@ -22,6 +22,7 @@
         <li>continue removing redundancies in head sections</li>
         <li>Move dropdown menus to left side of pages</li>
         <li>Add a view source code button to every relevant page</li>
+        <li>Fix home page layout</li>
       
     </ul>
  </div>    
