@@ -16,7 +16,7 @@
 
   <div class="card">
     <div class="card-body">
-      <h4 class="card-title">Background Colors</h4>
+      <h4 class="card-title">React Page</h4>
       <p class="card-text">This is a my react page that I managed to get running. Will be a project next week.</p>
       <a href="https://elliottingey.github.io/testing" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
     </div>
