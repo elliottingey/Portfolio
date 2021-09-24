@@ -13,7 +13,17 @@
 
   <body>
 <div class="card-deck">
-      <div class="card">
+
+ 
+  <div class="card">
+    <div class="card-body">
+      <h4 class="card-title">Background Colors</h4>
+      <p class="card-text">This is a web page that will allow you to pick the background color using a few different methods. Currently just an image of the planned layout. Will be using React.</p>
+      <a href="https://elliottingey.github.io/Portfolio/htmltestingWeek2" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
+    </div>
+  </div>
+
+  <div class="card">
     <div class="card-body">
       <h4 class="card-title">Learning JavaScript</h4>
       <p class="card-text">As I learn JavaScript, I will be adding to this page with tutorial milestones and JavaScript code.</p>
@@ -28,6 +38,8 @@
       <a href="https://elliottingey.github.io/Portfolio/htmltestingWeek2" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
     </div>
   </div>
+
+  
 </div>
   
   
