@@ -12,23 +12,22 @@
   
 
   <body>
- <div class="card-deck">
-
+ <div class="card-deck"> 
   <div class="card">
     <div class="card-body">
-      <h4 class="card-title">React Page</h4>
-      <p class="card-text">This is a my react page that I managed to get running. Will be a project next week.</p>
-      <a href="https://elliottingey.github.io/testing" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
+      <h4 class="card-title">React Colors</h4>
+      <p class="card-text">This is a react page that I was basing of the ideas from the "Background Colors" card. Functionality described in the changelog</p>
+      <a href="https://elliottingey.github.io/colors" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
     </div>
-  </div>     
-      
-    <div class="card">
+  </div>
+     
+   <div class="card">
     <div class="card-body">
-      <h4 class="card-title">HTML Testing Site</h4>
-      <p class="card-text">This is a web page that I will be iterating on every week with the new infomation I learn.</p>
-      <a href="https://elliottingey.github.io/Portfolio/htmltestingWeek2" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
+      <h4 class="card-title">Background Colors</h4>
+      <p class="card-text">This is a web page that will allow you to pick the background color using a few different methods. Currently just an image of the planned layout. Will           be using React.</p>
+      <a href="https://elliottingey.github.io/Portfolio/backgroundColors" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
     </div>
-  </div>    
+  </div>
       
   
   <div class="card">
@@ -40,17 +39,16 @@
   </div>
 </div>
      
+      
 <div class="card-deck">
-
- 
-  <div class="card">
+    <div class="card">
     <div class="card-body">
-      <h4 class="card-title">Background Colors</h4>
-      <p class="card-text">This is a web page that will allow you to pick the background color using a few different methods. Currently just an image of the planned layout. Will be using React.</p>
-      <a href="https://elliottingey.github.io/Portfolio/backgroundColors" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
+      <h4 class="card-title">HTML Testing Site</h4>
+      <p class="card-text">This is a web page that I will be iterating on every week with the new infomation I learn.</p>
+      <a href="https://elliottingey.github.io/Portfolio/htmltestingWeek2" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
     </div>
-  </div>
-
+  </div> 
+    
   <div class="card">
     <div class="card-body">
       <h4 class="card-title">Learning JavaScript</h4>
