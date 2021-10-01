@@ -51,6 +51,16 @@
     
   <div class="card">
     <div class="card-body">
+      <h4 class="card-title">This github pages site</h4>
+      <p class="card-text">I spent a lot of time in the first couple of weeks playing around with this website trying to make it look good and have usable navigation. 
+       If i had more time in the last week, I would have changed a lot with the html and CSS knowledge I picked up.</p>
+      <a href="https://elliottingey.github.io/Portfolio/home" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
+    </div>
+  </div> 
+    
+    
+  <div class="card">
+    <div class="card-body">
       <h4 class="card-title">Learning JavaScript</h4>
       <p class="card-text">As I learn JavaScript, I will be adding to this page with tutorial milestones and JavaScript code.</p>
       <a href="https://elliottingey.github.io/Portfolio/learningJavaScriptWeek2" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
