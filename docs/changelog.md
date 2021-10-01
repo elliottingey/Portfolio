@@ -5,8 +5,67 @@
 </head>
   
 <body>
-  <div class="container-fluid">
+
   <h1>ChangeLog:</h1>
+
+  <div class="container-fluid"> 
+  <h3>9/30/21 - Adding features and react hools</h3>
+    <ul class="a">
+        <li>github pages project up at <a href="https://elliottingey.github.io/colors/">my github.io</a></li>
+        <li>Did a lot of work with react hooks today. Varying success. <a href="https://reactjs.org/docs/hooks-state.html">This site</a> was very helpful.</li>
+        <li>Fixed randomize() so that it is better random and doesnt cause issues elsewhere in my code</li>
+        <li>Added console printing hex codes on button press to make testing easier</li>
+        <li>Began adding functions to allow custom colors to be input using hooks. Want to allow hex, rgb, and
+        a color wheel selector</li>
+        <li>Added dynamic text that changes depending on what color input mode is chosen. Currently does
+        not allow input after pushing Customize button</li>
+        <li>Wrote CSS to allow for a much nicer formatted dropdown menu. I should have tried to find
+        more info online for this. It was not fun.</li>
+        <li>Began adding functionality to record color history for recently chosen colors. Button doesnt do anything yet. </li>
+        <li>Seperated CSS for button and dropdown buttons to help make it easier to deal with</li>
+        <li>Removed a lot of the default code from the react-app initalization</li> 
+
+    </ul>
+  </div>
+
+  <div class="container-fluid"> 
+  <h3>9/29/21 - CSS and some TypeScript Functions</h3>
+    <ul class="a">
+        <li>added bootstrap to the site</li>
+        <li>I formatted the site a little. I added CSS buttons with base styling from <a href="https://freefrontend.com/bootstrap-code-examples">here</a> and <a href="https://getcssscan.com/css-buttons-examples">here.</a></li>
+        <li>Added some code to make a drop down button</li>
+        <li>Added random button. Background will now change colors at random when pressed</li>
+        <li>Added reset button to return to default coloration</li>
+        <li>Created randomize(), insertRandomColor(), and resetColor() to do this</li>
+        <li>Added black borders around text so it can be seen on any color background</li>
+        <li>Many small assorted CSS tweaks</li>
+    </ul>
+  </div>
+
+  <div class="container-fluid"> 
+  <h3>9/28/21 - diving fully into react</h3>
+    <ul class="a">
+        <li>Made an instance of react with the typescript template. I will be making my next project in this.</li>
+        <li>I want to make a site where you can change the background color in a couple different ways. I got
+        the idea <a href="https://www.freecodecamp.org/news/javascript-projects-for-beginners/">here</a>, 
+        although I am not going to look at or use the code. For one, its in JavaScript and two, I would rather
+        try building it myself.</li>
+        <li>Added buttons to my site. Very basic so far. I referenced this site <a href="https://react.school/ui/button">here.</a></li>
+    </ul>
+  </div>
+
+  <div class="container-fluid"> 
+  <h3>9/27/21 - project not deploying to gh-pages</h3>
+    <ul class="a">
+        <li>Im having trouble getting my react project to deploy. I will try following the tutorial posted
+        on canvas. I tried following it once before and still had issues so im not sure whats wrong</li>
+        <li>update: I'm not sure what the issue is. May be with my PATH or nodejs being installed somewhere
+        weird on my laptop. Ive given up and Just reinstalled everything on my desktop. Seems to be working
+        so far.</li>
+    </ul>
+  </div>
+
+<div class="container-fluid">
     <h3>9/23/21 - painful errors</h3>
     <ul class="a">
         <li>Spent about 4 hours trying to get React running and properly using github pages. I was getting a ton of weird errors and ran into problems with git. I had to manually delete the github_pages folder in .cache for some reason. I ended up with a working page but I didnt finish the project I was planning on doing with the react page.</li>
