@@ -11,7 +11,9 @@
   <div class="container-fluid"> 
   <h3>9/30/21 - Adding features and using react hooks</h3>
     <ul class="a">
-        <li>github pages project up at <a href="https://elliottingey.github.io/colors/">my github.io</a></li>
+        <li>github pages project up at <a href="https://elliottingey.github.io/colors/">my github.io</a>. Here is the 
+	<a href="https://github.com/elliottingey/colors/tree/master">source code</a> for this project. I was planning on having this be a smaller project and do others
+	    as well, but I got really into it. I spent all my time trying to optimize it and get it running like I envisioned.</li>
         <li>Did a lot of work with react hooks today. Varying success. <a href="https://reactjs.org/docs/hooks-state.html">This site</a> was very helpful.</li>
         <li>Fixed randomize() so that it is better random and doesnt cause issues elsewhere in my code</li>
         <li>Added console printing hex codes on button press to make testing easier</li>
