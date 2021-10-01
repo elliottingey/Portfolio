@@ -9,7 +9,7 @@
   <h1>ChangeLog:</h1>
 
   <div class="container-fluid"> 
-  <h3>9/30/21 - Adding features and react hools</h3>
+  <h3>9/30/21 - Adding features and using react hooks</h3>
     <ul class="a">
         <li>github pages project up at <a href="https://elliottingey.github.io/colors/">my github.io</a></li>
         <li>Did a lot of work with react hooks today. Varying success. <a href="https://reactjs.org/docs/hooks-state.html">This site</a> was very helpful.</li>
