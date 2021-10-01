@@ -12,7 +12,7 @@
   
 
   <body>
-<div class="card-deck">
+ <div class="card-deck">
 
   <div class="card">
     <div class="card-body">
@@ -20,7 +20,28 @@
       <p class="card-text">This is a my react page that I managed to get running. Will be a project next week.</p>
       <a href="https://elliottingey.github.io/testing" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
     </div>
+  </div>     
+      
+    <div class="card">
+    <div class="card-body">
+      <h4 class="card-title">HTML Testing Site</h4>
+      <p class="card-text">This is a web page that I will be iterating on every week with the new infomation I learn.</p>
+      <a href="https://elliottingey.github.io/Portfolio/htmltestingWeek2" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
+    </div>
+  </div>    
+      
+  
+  <div class="card">
+    <div class="card-body">
+      <h4 class="card-title">React Page</h4>
+      <p class="card-text">This is a my react page that I managed to get running. Will be a project next week.</p>
+      <a href="https://elliottingey.github.io/testing" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
+    </div>
   </div>
+</div>
+     
+<div class="card-deck">
+
  
   <div class="card">
     <div class="card-body">
@@ -37,17 +58,11 @@
       <a href="https://elliottingey.github.io/Portfolio/learningJavaScriptWeek2" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
     </div>
   </div>
-    
-  <div class="card">
-    <div class="card-body">
-      <h4 class="card-title">HTML Testing Site</h4>
-      <p class="card-text">This is a web page that I will be iterating on every week with the new infomation I learn.</p>
-      <a href="https://elliottingey.github.io/Portfolio/htmltestingWeek2" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
-    </div>
-  </div>
+</div>
+
 
   
-</div>
+
   
   
   </body>
