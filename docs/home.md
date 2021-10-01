@@ -15,7 +15,7 @@
  <div class="card-deck"> 
   <div class="card">
     <div class="card-body">
-      <h4 class="card-title">React Colors</h4>
+      <h4 class="card-title">Background React Colors</h4>
       <p class="card-text">This is a react page that I was basing of the ideas from the "Background Colors" card. Functionality described in the changelog</p>
       <a href="https://elliottingey.github.io/colors" class="btn btn-outline-primary" class="btn stretched-link">Visit Page</a>
     </div>
